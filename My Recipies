@@ -1,0 +1,37 @@
+Last login: Sat Feb 27 16:14:45 on ttys000
+meet@Ramaniks-iMac ~ % pwd
+/Users/meet
+meet@Ramaniks-iMac ~ % mkdir My-Recipies
+meet@Ramaniks-iMac ~ % cd My-Recipies
+meet@Ramaniks-iMac My-Recipies % git clone https://github.com/MeetPevekar/My-RecipiesMeetPevekar/My-Recipies
+
+
+Cloning into 'My-Recipies'...
+
+
+
+remote: Not Found
+fatal: repository 'https://github.com/MeetPevekar/My-RecipiesMeetPevekar/My-Recipies/' not found
+meet@Ramaniks-iMac My-Recipies % 
+meet@Ramaniks-iMac My-Recipies % 
+meet@Ramaniks-iMac My-Recipies % 
+meet@Ramaniks-iMac My-Recipies % git clone https://github.com/MeetPevekar/My-Recipies.gi 
+Cloning into 'My-Recipies.gi'...
+Username for 'https://github.com': 
+Password for 'https://github.com': 
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/MeetPevekar/My-Recipies.gi/'
+meet@Ramaniks-iMac My-Recipies % 
+meet@Ramaniks-iMac My-Recipies % git clone https://github.com/MeetPevekar/My-Recipies.git
+Cloning into 'My-Recipies'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (6/6), done.
+meet@Ramaniks-iMac My-Recipies %  lh
+zsh: command not found: lh
+meet@Ramaniks-iMac My-Recipies % ls
+My-Recipies
+meet@Ramaniks-iMac My-Recipies % 
+
